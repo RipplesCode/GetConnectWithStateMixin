@@ -1,6 +1,6 @@
 # get_connect_with_state_mixin
 
-A new Flutter project.
+This project is about GetConnect and StateMixin in GetX
 
 ## Getting Started
 
