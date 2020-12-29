@@ -8,6 +8,16 @@ This project is about GetConnect and StateMixin in GetX
 >
 > - [PayPal](https://paypal.me/ripplescode)
 
+## GetX Video Tutorials
+
+[Watch here](https://www.youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t)
+
+
+### YouTube Channel
+
+[RipplesCode](https://www.youtube.com/channel/UCF7RTcfO02xQ94cWH6C35bg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
