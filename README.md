@@ -1,6 +1,7 @@
 # get_connect_with_state_mixin
 
 This project is about GetConnect and StateMixin in GetX
+![](https://github.com/RipplesCode/GetConnectWithStateMixin/blob/master/Output/Screenshot_2020-12-28-18-10-24-25_14cbb0676ad48bf981e28fc89179de8e.jpg)
 
 # Donate
 
