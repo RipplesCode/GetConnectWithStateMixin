@@ -2,6 +2,12 @@
 
 This project is about GetConnect and StateMixin in GetX
 
+# Donate
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> - [PayPal](https://paypal.me/ripplescode)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
